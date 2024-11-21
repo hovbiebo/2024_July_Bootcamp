@@ -1,5 +1,5 @@
 Here we are going to put documentation of our project progress
-Devops1
+Devops1 class
 
 
 
